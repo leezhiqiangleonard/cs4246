@@ -1,4 +1,4 @@
-# CS4246
+# CS4246 Application Project
 
 ## Motivation
 Cyber security consists of a collection of methods to protect the integrity, availability of computer systems and electronic data. In the era that internet-connected systems remarkably grow, systems and data become more vulnerable to the increasing cyber attacks. As artificial Intelligence (AI) enables the self-learning attacks, the rapid and ever-evolving attacks require defending to go beyond the classic defense strategies. Machine learning (ML) has been widely applied for attacks detection and data protection.
